@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transporter</string>
+    <string name="title_activity_select_hospital">Map</string>
+    <string name="reading_otp">Reading OTP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_navigate_driver">Map</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="title_activity_gate_more_hospitals">Map</string>
+</resources>
